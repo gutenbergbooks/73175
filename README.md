@@ -1,2 +1,1 @@
-Project Gutenberg (https://www.gutenberg.org) public repository
-for eBook #73175 (https://www.gutenberg.org/ebooks/73175)
+Project Gutenberg (https://www.gutenberg.org) public repository for eBook #73175 (https://www.gutenberg.org/ebooks/73175)

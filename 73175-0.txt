@@ -1,12 +1,11 @@
-
 STATIC
 
 By Wallace G. West
 
-    Charles Markley carried his radio set to darkest Africa,
-    where the natives took it for a god. A native girl learned
-    different, and just as Markley’s life was in extreme danger
-    something happened that changed the outlook on things.
+    Charles Markley carried his radio set to darkest Africa, where
+    the natives took it for a god. A native girl learned different,
+    and just as Markley’s life was in extreme danger something
+    happened that changed the outlook on things.
 
 
 Water slogged heavily against the hull of the Niger packet _Lagarto_.
@@ -689,3 +688,4 @@ river--and fail.”
 
 [Transcriber’s Note: This story appeared in the September 1926 issue of
 Sea Stories Magazine.]
+
